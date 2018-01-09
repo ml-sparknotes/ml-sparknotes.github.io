@@ -110,7 +110,7 @@
 
 img.article-image {
   width: 100%;
-  height: auto;
+  height: 200px;
 }
 
 a:hover, a:visited, a:link, a:active
